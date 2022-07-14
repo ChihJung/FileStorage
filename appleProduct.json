@@ -423,7 +423,7 @@
                 "storage": "256GB",
                 "network": "Cellular",
                 "picture": "silver.png"
-            },
+            }
         ]
     },
     "iPhone": {
